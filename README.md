@@ -45,6 +45,7 @@ A passionate **VLSI enthusiast** eager to embrace dynamic challenges and innovat
 ---
 
 ## 🏆 ACHIEVEMENTS  
+- **GATE Qualified - 2025 (EC)** | **AIR 3755** | Valid till *March 2028*  
 - **GATE Qualified - 2023 (EC)** | **AIR 6869** | Valid till *March 2026*  
 
 ---
@@ -66,7 +67,9 @@ A passionate **VLSI enthusiast** eager to embrace dynamic challenges and innovat
 ---
 
 ## 🏅 POSITIONS OF RESPONSIBILITY  
-- **GATE Scholar @ Cadence Lab, VIT Chennai** (*2024 - Present*)  
+- **GATE Scholar @ Teaching Assistance, VIT Chennai** (*Summer Workshop 2025*)  
+  - Conducting Workshop session on **Digital VLSI System Design using Semi Custom Approach**.
+- **GATE Scholar @ Cadence Lab, VIT Chennai** (*Academic year 2024 - 2025*)  
   - Managed lab access and assisted students with tool guidance.  
 
 ---
