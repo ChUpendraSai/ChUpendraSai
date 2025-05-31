@@ -1,6 +1,6 @@
 # 👨‍💻 CHILLIMUNTHA UPENDRA SAI | VLSI Enthusiast 🚀
 
-📞 **+91 6301117529** | 📧 **upendra.20bev7001@gmail.com** | 🔗 [LinkedIn](#) | 🏠 **Hyderabad, Telangana, IN**
+📧 **upendra.20bev7001@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/chillimunthaupendrasai/) | 🏠 **Hyderabad, Telangana, IN**
 
 ---
 
@@ -76,4 +76,4 @@ A passionate **VLSI enthusiast** eager to embrace dynamic challenges and innovat
 - Hands-on experience with **ASIC/FPGA flows** and **low-power techniques**.  
 - Passionate about solving real-world problems with **innovative RTL solutions**.  
 
-📫 **Let’s connect!** [Email](#) | [LinkedIn](#)  
+📫 **Let’s connect!** [Email](mailto:upendra.20bev7001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chillimunthaupendrasai/)  
